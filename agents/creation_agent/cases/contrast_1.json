@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI",
+  "intended_application": "An AI agent that supports clinicians by reviewing patient information, retrieving relevant medical guidance, synthesizing available evidence, suggesting possible treatment options, and escalating uncertainty or conflicting evidence for physician review. The agent is not authorized to independently make or execute final treatment decisions.",
+  "organization": "A large academic medical center with multiple hospitals, specialty clinics, and teaching programs.",
+  "industry_sector": "Healthcare / academic medicine.",
+  "business_need": "Help clinicians manage growing information volume, reduce time spent searching for relevant guidance, and support more consistent evidence-informed clinical decision-making while preserving physician authority.",
+  "users_stakeholders": "Physicians; nurses; pharmacists; clinical informatics teams; patients; hospital leadership; IT and cybersecurity teams; privacy, legal, compliance, and patient-safety functions.",
+  "adoption_posture": "Conservative / risk-averse. The organization is interested in advanced AI but requires strong evidence, human oversight, validation, traceability, and governance before allowing AI to influence consequential clinical decisions.",
+  "capabilities_constraints": "The organization has electronic health records, clinical data infrastructure, medical knowledge resources, experienced clinical informatics staff, and AI governance processes. Constraints include heterogeneous patient data, integration challenges, privacy requirements, clinical liability, regulatory expectations, model reliability concerns, workflow complexity, and the need for physician review.",
+  "risk_consequence_context": "High consequence. Inaccurate, incomplete, biased, or poorly contextualized recommendations could contribute to patient harm, delayed treatment, inappropriate treatment, liability, privacy violations, or loss of trust. Recommendations must remain reviewable, traceable, and subordinate to qualified clinical judgment.",
+  "management_question": "Given the same creation and evolution history of Agentic AI, what does that history imply for its use as clinical treatment-decision support in a high-consequence healthcare environment, and what dependencies, uncertainties, or limits should management recognize before considering broader use?",
+  "time_horizon": "Next 12–18 months.",
+  "additional_context": ""
+}

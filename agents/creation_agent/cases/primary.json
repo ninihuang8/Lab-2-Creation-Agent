@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI",
+  "intended_application": "An internal AI agent for IT service management that can answer employee support requests, retrieve information from approved enterprise knowledge sources, create and update support tickets, execute bounded low-risk routine actions, and escalate cases requiring human judgment.",
+  "organization": "A large multinational professional-services firm with approximately 50,000 employees operating across multiple countries.",
+  "industry_sector": "Professional services / enterprise knowledge work.",
+  "business_need": "Reduce repetitive Level 1 IT support workload and resolution time while providing employees with faster, consistent access to IT assistance across time zones.",
+  "users_stakeholders": "Employees seeking IT support; IT service-desk staff; IT operations; cybersecurity and identity-management teams; enterprise technology leadership; risk, privacy, and compliance functions.",
+  "adoption_posture": "Moderate / fast-follower. The organization is willing to adopt proven enterprise AI capabilities but prefers bounded deployment, measurable operational value, and human oversight before granting broader autonomy.",
+  "capabilities_constraints": "The organization has an established IT service-management platform, enterprise identity controls, internal knowledge bases, APIs for selected IT actions, and an experienced IT operations team. Constraints include fragmented knowledge quality across business units, legacy-system integration, international privacy requirements, cybersecurity controls, and the need to maintain reliable human escalation paths.",
+  "risk_consequence_context": "Most support interactions are low to moderate consequence, but incorrect actions involving access permissions, account changes, security settings, or sensitive employee information could create cybersecurity, privacy, or operational harm. Actions must therefore be reversible where possible and subject to appropriate authorization and escalation controls.",
+  "management_question": "Given how agentic AI emerged from prior AI, language-model, tool-use, orchestration, and enterprise-software capabilities, does its creation and evolution provide a sufficiently credible foundation for the organization to pilot an agentic IT-support application, and what dependencies or limitations should management recognize?",
+  "time_horizon": "Next 12–18 months.",
+  "additional_context": ""
+}
