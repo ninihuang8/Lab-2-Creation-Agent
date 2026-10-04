@@ -1,13 +1,13 @@
 # Specialist Agent Record
 
 ## A. Agent and Version
-- **Student / team:** [To be completed]
+- **Student / team:** Nini Huang
 - **Assignment / specialist agent:** Assignment 2 – Emerging Technology Creation Agent
 - **Version:** 0.1-student
 - **Frozen scaffold version:** MASY1800_ET_Agent_Scaffold_v1_0
-- **GitHub repository:** [To be completed]
-- **Branch:** [To be completed]
-- **Commit:** [To be completed]
+- **GitHub repository:** ninihuang8/Lab-2-Creation-Agent
+- **Branch:** assignment-2-creation-agent
+- **Commit:** ca74d6ce435bf9a8af1faca330ae3928b4064bd0
 
 ## B. Specialist Purpose and Context
 - **Governing analytical question:** How did this technology come into existence, what combination of prior capabilities made it possible, and what does that history imply for this application and organization?
